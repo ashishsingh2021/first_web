@@ -17,9 +17,9 @@ console.log(log_data);
 imp_to_call_this();
 });
 
-app.use((req,res,next)=>{                                          //UNCOMMENT THIS WHEN MAINTENANCE IS OVER
-  res.send("<h1>WE ARE UNDER MAINTENANCE. WE WILL BE BACK SOON !!!!</h1>");
-});
+//app.use((req,res,next)=>{                                          //UNCOMMENT THIS WHEN MAINTENANCE IS OVER
+//  res.send("<h1>WE ARE UNDER MAINTENANCE. WE WILL BE BACK SOON !!!!</h1>");
+//});
 
 
 app.get('/',(req,res)=>{                                           //HOME PAGE
