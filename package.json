@@ -9,7 +9,7 @@
   "author": "ASHISH SINGH",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "hbs": "^4.0.4",
     "nodemon": "^1.19.1"
